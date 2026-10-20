@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 620" width="720" height="620" role="img" aria-labelledby="title desc"><title id="title">A conceptual river catchment</title><desc id="desc">Rainfall feeds a river catchment with soil storage, tributaries and a main channel. Labels identify rainfall, soil storage, river flow and basin outlet.</desc><style>text{font-family:'Segoe UI',Arial,sans-serif;fill:#30382e}.label{font-size:13px;letter-spacing:2px;fill:#656e4b}.title{font-family:Georgia,serif;font-size:29px}.body{font-size:16px;fill:#5d6658}.tiny{font-size:13px;fill:#5d6658}.line{fill:none;stroke:#626d4d;stroke-width:2;stroke-linecap:round}.water{fill:none;stroke:#7e927d;stroke-width:3;stroke-linecap:round}.rose{stroke:#a66070;fill:none;stroke-width:2}.flow{fill:none;stroke:#8c4360;stroke-width:2;marker-end:url(#arrow)}</style><defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M1 1L6 4L1 7" fill="none" stroke="#8c4360" stroke-width="1.2"/></marker></defs>
+<text x="38" y="45" class="label">RAINFALL / CATCHMENT / RIVER FLOW</text>
+<path d="M82 229L172 144L230 201L304 117L386 202L477 140L628 264L595 417L478 524L331 556L174 496L74 369Z" fill="#e0e5d7" stroke="#abb697" stroke-width="2"/>
+<path d="M82 229L172 144L230 201L304 117L386 202L477 140L628 264" class="line"/>
+<path d="M94 257Q268 223 361 269T612 286M88 286Q256 254 340 295T606 322M85 319Q212 288 331 333T593 360M97 358Q223 327 331 370T578 402" fill="none" stroke="#c2ccb6" stroke-width="2"/>
+<path d="M304 178Q274 228 325 283Q373 328 333 374Q299 415 351 460Q395 492 402 549" fill="none" stroke="#688775" stroke-width="8" stroke-linecap="round"/>
+<path d="M186 240Q206 284 325 283M484 227Q441 313 345 340M167 371Q225 419 333 405M530 376Q491 442 351 460" fill="none" stroke="#8ba593" stroke-width="5" stroke-linecap="round"/>
+<g transform="translate(535,100) scale(.82)"><path class="line" d="M-48-9Q-49-31-26-31Q-14-58 10-42Q29-44 36-24Q59-15 44 2H-37Q-47 2-48-9Z"/><path class="water" d="M-22 17L-28 31M0 17L-6 31M22 17L16 31M-45 49Q-23 38 0 49T45 49"/></g>
+<text x="609" y="94" class="body">Rainfall</text>
+<path d="M179 337H39" class="rose"/><circle cx="179" cy="337" r="4" fill="#a66070"/><text x="35" y="314" class="body">Soil storage</text>
+<path d="M354 452H575" class="rose"/><circle cx="354" cy="452" r="4" fill="#a66070"/><text x="571" y="434" text-anchor="end" class="body">River flow</text>
+<path d="M403 549V576" class="flow"/><text x="431" y="582" class="body">Basin outlet</text>
+<text x="34" y="589" class="tiny">Conceptual catchment</text></svg>
